@@ -1,0 +1,32 @@
+{
+  "name": "hepihepi",
+  "version": "0.0.1",
+  "description": "Blog pribadi dengan vuepress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elangse/hepihepi.git"
+  },
+  "keywords": [
+    "vuepress",
+    "blog-pribadi",
+    "hepihepi",
+    "belajar",
+    "praktik"
+  ],
+  "author": "Elang S.P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elangse/hepihepi/issues"
+  },
+  "homepage": "https://github.com/elangse/hepihepi#readme",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  }
+}
