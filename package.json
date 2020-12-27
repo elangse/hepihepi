@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
-
   },
   "repository": {
     "type": "git",
@@ -28,5 +27,8 @@
   "homepage": "https://github.com/elangse/hepihepi#readme",
   "devDependencies": {
     "vuepress": "^1.6.0"
+  },
+  "dependencies": {
+    "directory-tree": "^2.2.5"
   }
 }
